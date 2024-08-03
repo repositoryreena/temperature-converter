@@ -1,5 +1,6 @@
 body, html{
     height: 100vh;
+    overflow: hidden;
 }
 body{
     display: flex;
@@ -7,6 +8,7 @@ body{
     align-items: center;
     background-color: rgb(138, 223, 189);
     font-family: sans-serif;
+    
 }
 .container{
     display: flex;
